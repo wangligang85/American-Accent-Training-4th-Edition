@@ -186,9 +186,6 @@
 
 [092a - Exercise 1-55 - Mr. Thingamajig.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/092a%20-%20Exercise%201-55%20-%20Mr.%20Thingamajig.mp3)
 
-
-Chapter 2 (Tracks 93-120)
-
 [093 - Chapter 2 - Word Linking & Phrasing.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/093%20-%20Chapter%202%20-%20Word%20Linking%20&%20Phrasing.mp3)
 
 [094 - Exercise 2-1 - Spelling and Pronunciation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/094%20-%20Exercise%202-1%20-%20Spelling%20and%20Pronunciation.mp3)
@@ -245,8 +242,6 @@ Chapter 2 (Tracks 93-120)
 
 [120 - Vowel and Consonant Mouth Positions.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/120%20-%20Vowel%20and%20Consonant%20Mouth%20Positions.mp3)
 
-Chapter 3 (Tracks 121-131)
-
 [121 - Cat_Caught_Cut.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/121%20-%20Cat_Caught_Cut.mp3)
 
 [122 - Exercise 3-1 - Word-By-Word and In a Sentence.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/122%20-%20Exercise%203-1%20-%20Word-By-Word%20and%20In%20a%20Sentence.mp3)
@@ -281,8 +276,6 @@ Chapter 3 (Tracks 121-131)
 
 [131 - Exercise 3-9 - Extended Listening Practice.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/131%20-%20Exercise%203-9%20-%20Extended%20Listening%20Practice.mp3)
 
-Chapter 4 (Tracks 132-147)
-
 [132 - The American T.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/132%20-%20The%20American%20T.mp3)
 
 [133 - Exercise 4-1 - Stressed and Unstressed T.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/133%20-%20Exercise%204-1%20-%20Stressed%20and%20Unstressed%20T.mp3)
@@ -315,8 +308,6 @@ Chapter 4 (Tracks 132-147)
 
 [147 - Exercise 4-15 - Rhyme Time.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/147%20-%20Exercise%204-15%20-%20Rhyme%20Time.mp3)
 
-Chapter 5 (Tracks 148-157)
-
 [148 - Chapter 5 - The American R.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/148%20-%20Chapter%205%20-%20The%20American%20R.mp3)
 
 [149 - Exercise 5-1 - R Location Practice.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/149%20-%20Exercise%205-1%20-%20R%20Location%20Practice.mp3)
@@ -336,8 +327,6 @@ Chapter 5 (Tracks 148-157)
 [156 - Exercise 5-7 - Finding the R Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/156%20-%20Exercise%205-7%20-%20Finding%20the%20R%20Sounds.mp3)
 
 [157 - Voiced Consonants and Reduced Vowels.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/157%20-%20Voiced%20Consonants%20and%20Reduced%20Vowels.mp3)
-
-Chapter 6 (Tracks 158-176)
 
 [158 - The El.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/158%20-%20The%20El.mp3)
 
@@ -377,8 +366,6 @@ Chapter 6 (Tracks 158-176)
 
 [176 - Exercise 6-14 - Tandem Reading.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/176%20-%20Exercise%206-14%20-%20Tandem%20Reading.mp3)
 
-Chapter 7 (Tracks 177-193)
-
 [177 - Chapter 7 - Reduced Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/177%20-%20Chapter%207%20-%20Reduced%20Sounds.mp3)
 
 [178 - Exercise 7-1 - Reducing Articles.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/178%20-%20Exercise%207-1%20-%20Reducing%20Articles.mp3)
@@ -413,8 +400,6 @@ Chapter 7 (Tracks 177-193)
 
 [193 - Breathing Exercises.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/193%20-%20Breathing%20Exercises.mp3)
 
-Chapter 8 (Tracks 194-197)
-
 [194 - Chapter 8 - Tee Aitch.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/194%20-%20Chapter%208%20-%20Tee%20Aitch.mp3)
 
 [195 - Exercise 8-1 - Targeting the TH Sound.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/195%20-%20Exercise%208-1%20-%20Targeting%20the%20TH%20Sound.mp3)
@@ -422,8 +407,6 @@ Chapter 8 (Tracks 194-197)
 [196 - Exercise 8-2 - The Thuringian Thermometers.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/196%20-%20Exercise%208-2%20-%20The%20Thuringian%20Thermometers.mp3)
 
 [197 - Exercise 8-3 - Tongue Twisters.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/197%20-%20Exercise%208-3%20-%20Tongue%20Twisters.mp3)
-
-Chapter 9 (Tracks 198-207)
 
 [198 - Chapter 9 - S Or Z.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/198%20-%20Chapter%209%20-%20S%20Or%20Z.mp3)
 
@@ -444,8 +427,6 @@ Chapter 9 (Tracks 198-207)
 [206 - Exercise 9-7 - Your Own Application Steps with S and Z.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/206%20-%20Exercise%209-7%20-%20Your%20Own%20Application%20Steps%20with%20S%20and%20Z.mp3)
 
 [207 - Telephone Tutoring - Mid-Point Diagnostic Analysis.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/207%20-%20Telephone%20Tutoring%20-%20Mid-Point%20Diagnostic%20Analysis.mp3)
-
-Chapter 1-9 Review & Expansion
 
 [208 - So You're In a Tough Relationship with English, Let's Talk About That!.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/208%20-%20So%20You're%20In%20a%20Tough%20Relationship%20with%20English,%20Let's%20Talk%20About%20That!.mp3)
 
@@ -545,8 +526,6 @@ Chapter 1-9 Review & Expansion
 
 [256 - Review Exercise 15 - Ignorance on Parade.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/256%20-%20Review%20Exercise%2015%20-%20Ignorance%20on%20Parade.mp3)
 
-Chapter 10 (Tracks 257-272)
-
 [257 - Chapter 10 - More Reduced Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/257%20-%20Chapter%2010%20-%20More%20Reduced%20Sounds.mp3)
 
 [258 - Exercise 10-1 - Comparing u and ü.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/258%20-%20Exercise%2010-1%20-%20Comparing%20u%20and%20%C3%BC.mp3)
@@ -579,8 +558,6 @@ Chapter 10 (Tracks 257-272)
 
 [272 - Yod Dropping.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/272%20-%20Yod%20Dropping.mp3)
 
-Chapter 11 (Tracks 273-280)
-
 [273 - Chapter 11 - V As In Victory.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/273%20-%20Chapter%2011%20-%20V%20As%20In%20Victory.mp3)
 
 [274 - Exercise 11-1 - Mind Your Vees.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/274%20-%20Exercise%2011-1%20-%20Mind%20Your%20Vees.mp3)
@@ -596,8 +573,6 @@ Chapter 11 (Tracks 273-280)
 [279 - Fred's Fried Fish.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/279%20-%20Fred's%20Fried%20Fish.mp3)
 
 [280 - Complete Vowel and Consonant Chart.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/280%20-%20Complete%20Vowel%20and%20Consonant%20Chart.mp3)
-
-Chapter 12 (Tracks 281-289)
 
 [281 - Chapter 12 - Tense And Lax Vowels.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/281%20-%20Chapter%2012%20-%20Tense%20And%20Lax%20Vowels.mp3)
 
@@ -616,8 +591,6 @@ Chapter 12 (Tracks 281-289)
 [288 - Exercise 12-6 - Pick a Peak.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/288%20-%20Exercise%2012-6%20-%20Pick%20a%20Peak.mp3)
 
 [289 - eeh & ih.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/289%20-%20eeh%20&%20ih.mp3)
-
-Chapter 13 (Tracks 290-305)
 
 [290 - Chapter 13 - The Ridge.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/290%20-%20Chapter%2013%20-%20The%20Ridge.mp3)
 
@@ -651,8 +624,6 @@ Chapter 13 (Tracks 290-305)
 
 [305 - The Verb Map.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/305%20-%20The%20Verb%20Map.mp3)
 
-Chapter 14 (Tracks 306-310)
-
 [306 - Chapter 14 - Grammar in a Bigger Nutshell.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/306%20-%20Chapter%2014%20-%20Grammar%20in%20a%20Bigger%20Nutshell.mp3)
 
 [307 - Exercise 14-1 - Compound Nouns and Complex Verbs.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/307%20-%20Exercise%2014-1%20-%20Compound%20Nouns%20and%20Complex%20Verbs.mp3)
@@ -663,15 +634,11 @@ Chapter 14 (Tracks 306-310)
 
 [310 - Exercise 14-3 - Your Own Compound Nouns & Complex Verbs.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/310%20-%20Exercise%2014-3%20-%20Your%20Own%20Compound%20Nouns%20&%20Complex%20Verbs.mp3)
 
-Chapter 15 (Tracks 311-313)
-
 [311 - Exercise 15-1 - Practical Application - U.S.-Japan Trade Friction.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/311%20-%20Exercise%2015-1%20-%20Practical%20Application%20-%20U.S.-Japan%20Trade%20Friction.mp3)
 
 [312 - The Letter A.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/312%20-%20The%20Letter%20A.mp3)
 
 [313 - Exercise 15-2 - Practical Application - Presidential Candidates' Debate.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/313%20-%20Exercise%2015-2%20-%20Practical%20Application%20-%20Presidential%20Candidates'%20Debate.mp3)
-
-Chapter 16 (Tracks 314-318)
 
 [314 - Nasal Consonants.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/314%20-%20Nasal%20Consonants.mp3)
 
@@ -682,8 +649,6 @@ Chapter 16 (Tracks 314-318)
 [317 - Exercise 16-3 - Reading Nasal Consonant Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/317%20-%20Exercise%2016-3%20-%20Reading%20Nasal%20Consonant%20Sounds.mp3)
 
 [318 - Exercise 16-4 - Finding n and ng Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/318%20-%20Exercise%2016-4%20-%20Finding%20n%20and%20ng%20Sounds.mp3)
-
-Chapter 17 (Tracks 319-328)
 
 [319 - Chapter 17 - Throaty Consonants.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/319%20-%20Chapter%2017%20-%20Throaty%20Consonants.mp3)
 
@@ -704,8 +669,6 @@ Chapter 17 (Tracks 319-328)
 [327 - Exercise 17-4 - Glottal Consonant Practice Paragraph.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/327%20-%20Exercise%2017-4%20-%20Glottal%20Consonant%20Practice%20Paragraph.mp3)
 
 [328 - Telephone Tutoring - Final Diagnostic Analysis.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/328%20-%20Telephone%20Tutoring%20-%20Final%20Diagnostic%20Analysis.mp3)
-
-Chapter 1-17: Review & Expansion
 
 [329 - Chapters 1-17 - Review And Expansion.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/329%20-%20Chapters%201-17%20-%20Review%20And%20Expansion.mp3)
 
