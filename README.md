@@ -1,272 +1,130 @@
 # American-Accent-Training-4th-Edition
 
-[000 - Tracks 000 - 199.zip](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/000%20-%20Tracks%20000%20-%20199.zip)
-
-512.1 MB
-
-[000 - Tracks 200 - 399.zip](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/000%20-%20Tracks%20200%20-%20399.zip)
-
-355.1 MB
-
-[000 - Tracks 400 - 452.zip](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/000%20-%20Tracks%20400%20-%20452.zip)
-
-75.8 MB
-
-Introduction
-
 [001 - Read This First.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/001%20-%20Read%20This%20First.mp3)
-
-9.9 MB
 
 [002 - A Few Words on Pronunciation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/002%20-%20A%20Few%20Words%20on%20Pronunciation.mp3)
 
-9.4 MB
-
 [003 - We don't have some of those sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/003%20-%20We%20don't%20have%20some%20of%20those%20sounds.mp3)
-
-2.8 MB
 
 [004 - Vowel & Consonant Overview.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/004%20-%20Vowel%20&%20Consonant%20Overview.mp3)
 
-1.2 MB
-
 [005 - Vowel & Consonant Chart.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/005%20-%20Vowel%20&%20Consonant%20Chart.mp3)
-
-11.0 MB
 
 [006 - Vowel & Consonant Overview 2.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/006%20-%20Vowel%20&%20Consonant%20Overview%202.mp3)
 
-22.6 MB
-
 [007 - Preliminary Diagnostic Analysis.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/007%20-%20Preliminary%20Diagnostic%20Analysis.mp3)
-
-1.3 MB
-
-Chapter 1 (Tracks 8-92a)
 
 [008 - Exercise 1-1.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/008%20-%20Exercise%201-1.mp3)
 
-3.0 MB
-
 [009 - Exercise 1-2 - Combining Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/009%20-%20Exercise%201-2%20-%20Combining%20Sounds.mp3)
-
-1.1 MB
 
 [010 - Exercise 1-3 - Pronunciation & Cadence.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/010%20-%20Exercise%201-3%20-%20Pronunciation%20&%20Cadence.mp3)
 
-1.2 MB
-
 [011 - Exercise 1-4 - Pure Sound.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/011%20-%20Exercise%201-4%20-%20Pure%20Sound.mp3)
-
-2.3 MB
 
 [012 - Exercise 1-5 - Regular English.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/012%20-%20Exercise%201-5%20-%20Regular%20English.mp3)
 
-1.1 MB
-
 [013 - Exercise 1-6 - Pure Sound.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/013%20-%20Exercise%201-6%20-%20Pure%20Sound.mp3)
-
-2.4 MB
 
 [014 - Voice Quality.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/014%20-%20Voice%20Quality.mp3)
 
-5.1 MB
-
 [015 - Music.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/015%20-%20Music.mp3)
-
-1.6 MB
 
 [016 - Exercise 1-1 - Pitch-Sound.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/016%20-%20Exercise%201-1%20-%20Pitch-Sound.mp3)
 
-2.5 MB
-
 [017 - The Daddy Voice.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/017%20-%20The%20Daddy%20Voice.mp3)
-
-1.6 MB
 
 [018 - The American Speech Music - Change pitch on important information.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/018%20-%20The%20American%20Speech%20Music%20-%20Change%20pitch%20on%20important%20information.mp3)
 
-7.8 MB
-
 [019 - Exercise 1-7 - Rubber Band Practice with Nonsense Syllables.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/019%20-%20Exercise%201-7%20-%20Rubber%20Band%20Practice%20with%20Nonsense%20Syllables.mp3)
-
-5.4 MB
 
 [020 - The American Speech Music.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/020%20-%20The%20American%20Speech%20Music.mp3)
 
-2.3 MB
-
 [021 - Staircase Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/021%20-%20Staircase%20Intonation.mp3)
-
-1.4 MB
 
 [022 - Exercise 1-8 - Noun Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/022%20-%20Exercise%201-8%20-%20Noun%20Intonation.mp3)
 
-3.4 MB
-
 [023 - Statement Intonation with Pronouns.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/023%20-%20Statement%20Intonation%20with%20Pronouns.mp3)
-
-0.9 MB
 
 [024 - Exercise 1-9 - Noun and Pronoun Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/024%20-%20Exercise%201-9%20-%20Noun%20and%20Pronoun%20Intonation.mp3)
 
-3.7 MB
-
 [025 - Statement Versus Question Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/025%20-%20Statement%20Versus%20Question%20Intonation.mp3)
-
-1.9 MB
 
 [026 - Exercise 1-10 - Sentence Intonation Test.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/026%20-%20Exercise%201-10%20-%20Sentence%20Intonation%20Test.mp3)
 
-0.3 MB
-
 [027 - Exercise 1-11 - Four Main Reasons for Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/027%20-%20Exercise%201-11%20-%20Four%20Main%20Reasons%20for%20Intonation.mp3)
-
-4.2 MB
 
 [028 - Exercise 1-12 - Pitch and Meaning Change.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/028%20-%20Exercise%201-12%20-%20Pitch%20and%20Meaning%20Change.mp3)
 
-1.1 MB
-
 [029 - Exercise 1-13 - Individual Practice.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/029%20-%20Exercise%201-13%20-%20Individual%20Practice.mp3)
-
-2.5 MB
 
 [030 - Exercise 1-14 - Meaning of Pretty.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/030%20-%20Exercise%201-14%20-%20Meaning%20of%20%EF%80%A0Pretty%EF%80%A0.mp3)
 
-1.1 MB
-
 [031 - Exercise 1-15 - Inflection.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/031%20-%20Exercise%201-15%20-%20Inflection.mp3)
-
-3.6 MB
 
 [032 - Exercise 1-16 - Individual Practice.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/032%20-%20Exercise%201-16%20-%20Individual%20Practice.mp3)
 
-4.6 MB
-
 [033 - Exercise 1-17 - Sticky Note Exercise.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/033%20-%20Exercise%201-17%20-%20Sticky%20Note%20Exercise.mp3)
-
-1.8 MB
 
 [034 - Overdo It.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/034%20-%20Overdo%20It.mp3)
 
-1.6 MB
-
 [035 - Exercise 1-18 - Translation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/035%20-%20Exercise%201-18%20-%20Translation.mp3)
-
-0.6 MB
 
 [036 - In Your Own Language.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/036%20-%20In%20Your%20Own%20Language.mp3)
 
-4.2 MB
-
 [037 - Intonation Contrast.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/037%20-%20Intonation%20Contrast.mp3)
-
-1.2 MB
 
 [038 - Exercise 1-19 - Create Your Own Intonation Contrast.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/038%20-%20Exercise%201-19%20-%20Create%20Your%20Own%20Intonation%20Contrast.mp3)
 
-0.6 MB
-
 [039 - Question Types.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/039%20-%20Question%20Types.mp3)
-
-2.2 MB
 
 [040 - Exercise 1-20 - Variable Stress.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/040%20-%20Exercise%201-20%20-%20Variable%20Stress.mp3)
 
-2.4 MB
-
 [041 - Exercise 1-21 - Make a Variable Stress Sentence.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/041%20-%20Exercise%201-21%20-%20Make%20a%20Variable%20Stress%20Sentence.mp3)
-
-0.8 MB
 
 [042 - Exercise 1-22 - Yes, You Can or No, You Can't\_.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/042%20-%20Exercise%201-22%20-%20Yes,%20You%20Can%20or%20No,%20You%20Can't_.mp3)
 
-1.7 MB
-
 [043 - Exercise 1-23 - Can or Can't Quiz.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/043%20-%20Exercise%201-23%20-%20Can%20or%20Can't%20Quiz.mp3)
-
-1.7 MB
 
 [044 - Application of Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/044%20-%20Application%20of%20Intonation.mp3)
 
-1.5 MB
-
 [045 - Exercise 1-24 - Application of Stress.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/045%20-%20Exercise%201-24%20-%20Application%20of%20Stress.mp3)
-
-2.7 MB
 
 [046 - How You Talk Indicates to People How You Are.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/046%20-%20How%20You%20Talk%20Indicates%20to%20People%20How%20You%20Are.mp3)
 
-2.3 MB
-
 [047 - Exercise 1-25 - Paragraph Intonation Practice.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/047%20-%20Exercise%201-25%20-%20Paragraph%20Intonation%20Practice.mp3)
-
-0.8 MB
 
 [048 - Intonation & Attitude.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/048%20-%20%20Intonation%20&%20Attitude.mp3)
 
-1.2 MB
-
 [049 - Exercise 1-26 - Nonverbal Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/049%20-%20%20Exercise%201-26%20-%20Nonverbal%20Intonation.mp3)
-
-2.0 MB
 
 [050 - Exercise 1-27 - Sounds of Empathy.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/050%20-%20Exercise%201-27%20-%20Sounds%20of%20Empathy.mp3)
 
-2.5 MB
-
 [051 - Warm Up with Run-Up Phrases.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/051%20-%20Warm%20Up%20with%20Run-Up%20Phrases.mp3)
-
-1.0 MB
 
 [052 - Variety.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/052%20-%20Variety.mp3)
 
-1.3 MB
-
 [053 - Exercise 1-28 - Reading with Staircase Intonation.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/053%20-%20%20Exercise%201-28%20-%20Reading%20with%20Staircase%20Intonation.mp3)
-
-3.3 MB
 
 [054 - Exercise 1-29 - Spelling and Numbers.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/054%20-%20%20Exercise%201-29%20-%20Spelling%20and%20Numbers.mp3)
 
-3.3 MB
-
 [055 - Exercise 1-30 - Sound & Meaning Shifts.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/055%20-%20%20Exercise%201-30%20-%20Sound%20&%20Meaning%20Shifts.mp3)
-
-2.0 MB
 
 [056 - Exercise 1-31 - Squeezed-Out Syllables.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/056%20-%20%20Exercise%201-31%20-%20Squeezed-Out%20Syllables.mp3)
 
-4.1 MB
-
 [057 - Exercise 1-32 - Regular Transitions of Nouns and Verbs.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/057%20-%20Exercise%201-32%20-%20Regular%20Transitions%20of%20Nouns%20and%20Verbs.mp3)
-
-5.0 MB
 
 [058 - Exercise 1-33 - Regular Transitions of Adjectives and Verbs.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/058%20-%20%20Exercise%201-33%20-%20Regular%20Transitions%20of%20Adjectives%20and%20Verbs.mp3)
 
-3.0 MB
-
 [059 - Exercise 1-34 - Regular Transitions of Adjectives and Verbs.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/059%20-%20Exercise%201-34%20-%20Regular%20Transitions%20of%20Adjectives%20and%20Verbs.mp3)
-
-1.9 MB
 
 [060 - Syllable Stress.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/060%20-%20Syllable%20Stress.mp3)
 
-1.0 MB
-
 [061 - Exercise 1-35 - Syllable Patterns.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/061%20-%20Exercise%201-35%20-%20Syllable%20Patterns.mp3)
-
-20.1 MB
 
 [062 - Syllable Stress- Rule of Thumb.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/062%20-%20Syllable%20Stress-%20Rule%20of%20Thumb.mp3)
 
-0.9 MB
-
 [063 - Exercise 1-36 - Syllable Stress.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/063%20-%20Exercise%201-36%20-%20Syllable%20Stress.mp3)
-
-1.0 MB
 
 [064 - Exercise 1-37 - The 5 Percent Rule - Stress the last syllable.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/064%20-%20%20Exercise%201-37%20-%20The%205%20Percent%20Rule%20-%20Stress%20the%20last%20syllable.mp3)
 
@@ -1887,3 +1745,16 @@ Chapter 1-17: Review & Expansion
 [452 - Review Exercise 13-3 - Reading the H, K, G, NG, and R Sounds.mp3](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/452%20-%20%20Review%20Exercise%2013-3%20-%20Reading%20the%20H,%20K,%20G,%20NG,%20and%20R%20Sounds.mp3)
 
 2.8 MB
+
+[000 - Tracks 000 - 199.zip](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/000%20-%20Tracks%20000%20-%20199.zip)
+
+512.1 MB
+
+[000 - Tracks 200 - 399.zip](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/000%20-%20Tracks%20200%20-%20399.zip)
+
+355.1 MB
+
+[000 - Tracks 400 - 452.zip](http://americanaccenttraining.barronsaudio.rints.com/Audio/americanaccenttraining/000%20-%20Tracks%20400%20-%20452.zip)
+
+75.8 MB
+
